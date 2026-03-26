@@ -39,8 +39,6 @@ eml.removeAttribute('class');
 </script>
 [bio]-->
 
-This is an example personal homepage built with [bio-site](https://github.com/GeeLaw/bio-site). It features simplicity and integration with BibTeX.
-
 ## Building Blocks
 
 ```blog-bib
