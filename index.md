@@ -1,11 +1,11 @@
 ```bio-meta
 {
-    "name": "J. Doe",
-    "title": "J. Doe | Curriculum Vitae",
-    "description": "J. Doe&#8217;s curriculum vitae.",
+    "name": "Charlie Doremieux",
+    "title": "Charlie Doremieux | Curriculum Vitae",
+    "description": "Charlie Doremieux&#8217;s curriculum vitae.",
     "url": "https://GeeLaw.github.io/bio-site/",
     "assets": "https://GeeLaw.github.io/bio-site/assets",
-    "date-created": "2020-04-21",
+    "date-created": "2026-03-25",
     "repo": "https://github.com/GeeLaw/bio-site",
     "tilecolor": "#f2f2f2"
 }
@@ -15,11 +15,11 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I’m a second-year Ph.D. student in unknown discipline, advised by [unknown professor](https://example.com/). I am interested in some unknown specialized sub-area.
+I’m a first-year Ph.D. student in Philosophy at [Rutgers](https://philosophy.rutgers.edu/). I am interested in Metaphysics, Language, and Logic.
 
-Prior to joining [unknown current university](https://example.com/), I obtained my bachelor’s degree from [unknown previous university](https://example.com/).
+Prior to joining Rutgers, I obtained my bachelor’s degree in Philosophy and Applied Mathematics from the University of Colorado, Boulder.
 
-I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
+I can be reached at charlie dot doremieux at rutgers.edu
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.
